@@ -3,6 +3,7 @@
 .food-munch-logo {
     width: 80px;
     height: 70px;
+    border-radius: 50%;
 }
 
 #navItem1 {
@@ -26,7 +27,7 @@
 }
 
 .banner-section-bg-container {
-    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-image: url("https://t4.ftcdn.net/jpg/09/93/71/13/240_F_993711356_k5W0MN75VhrITBGACQ8VRZkBSNow2U59.jpg");
     height: 100vh;
     background-size: cover;
 }
